@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="in.co.gorest.userinfo.UserCURDTestWithSteps" skipped="0" tests="1" time="7.03" timestamp="2022-06-07T19:10:28.219+01:00[Europe/London]"><testcase classname="in.co.gorest.userinfo.UserCURDTestWithSteps" name="Verify if the user was added to the application for name=Jagadish Somayaji"/></testsuite>
